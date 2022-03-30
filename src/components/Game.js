@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 export default function Game(props) {
     const { counter, guess, isLesser, isGreater, isCorrect, gameOver } = props
