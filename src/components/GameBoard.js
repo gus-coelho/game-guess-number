@@ -38,14 +38,16 @@ export default function GameBoard() {
     }
     
     function startGame() {
-        setGameStarted(prevState => !prevState)
+        
         if (!gameStarted) {
+            setGameStarted(true)
             incrementCounter()
         } else {
+            setGameStarted(false)
             setCounter(0)
             setMin(1)
             setMax(100)
-            setGameOver(true)
+            setGameOver(false)
         }
      }
 
