@@ -45,7 +45,7 @@ export default function GameBoard() {
             setCounter(0)
             setMin(1)
             setMax(100)
-            setGameOver(prevState => !prevState)
+            setGameOver(true)
         }
      }
 
