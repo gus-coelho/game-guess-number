@@ -1,3 +1,5 @@
+![Snapshot image](https://github.com/gus-coelho/game-guess-number/blob/master/src/images/screen.png)
+
 # Game: Guessing Numbers
 A guessing number game implemented in ReactJS.
 
