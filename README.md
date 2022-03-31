@@ -1,3 +1,8 @@
+# Game: Guessing Numbers
+A guessing number game implemented in ReactJS.
+
+You can try it on: https://gus-coelho-game-guess-number.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
